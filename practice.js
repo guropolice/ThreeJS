@@ -1,4 +1,4 @@
-import * as THREE from 'https://threejsfundamentals.org/threejs/resources/threejs/r125/build/three.module.js'
+import * as THREE from 'three'
 //https://threejsfundamentals.org/threejs/resources/threejs/r125/build/three.module.js
 console.log(THREE);
 
